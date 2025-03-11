@@ -24,7 +24,7 @@ Facilita a reutilização de código.
 ✅ Polimorfismo
 
 Permite que métodos tenham comportamentos diferentes dependendo da classe que os implementa.
-Exemplo: Um método falar() pode funcionar diferente para um Cachorro e um Gato.
+Exemplo: Um método "falar()" pode funcionar diferente para um Cachorro e um Gato.
 
 ✅ Abstração
 
